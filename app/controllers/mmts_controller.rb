@@ -1,0 +1,2 @@
+class MmtsController < ApplicationController
+end
